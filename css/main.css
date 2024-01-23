@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.posts{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.span{
+    color: #919191;
+}
